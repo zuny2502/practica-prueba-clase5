@@ -1,0 +1,26 @@
+ body {
+    background-color: rgb(144, 203, 222);
+}
+h1 {
+    color: rgb(208, 6, 23);
+    text-align: center;
+}
+p {
+  color:crimson;
+  font-size: 30px;
+}
+img {
+    border: 3px;
+}
+ul {
+   list-style-type:circle;
+} 
+li {
+   margin-bottom:20px;
+}
+a {
+  color:rgb(9, 4, 13);
+}
+a:hover {
+    color: blueviolet;
+}
